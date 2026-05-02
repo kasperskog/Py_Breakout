@@ -1,2 +1,2 @@
 # Py_Breakout
-Klon av Atari Breakout, gymnasieprojekt
+# En klon av Atari Breakout, gymnasieprojekt
